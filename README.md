@@ -1,10 +1,10 @@
 - 🎓 Student at Epitech
-- 💼 Looking for a third year intership
-- 👾 Learning ReactJs and Flutter
+- 💼 Intern at Atril Solutions
+- 👾 Learn probably somethings
 
 **Languages**<br>
-`C` `C++` `html` `css` `sass` `js` `jQuery`<br>
-`Firebase` `NodeJs`
+`C` `C++` `html` `css` `sass` `js`<br>
+`Firebase` `NodeJs` `ReactJs` `ExpressJs`
 
 **Devops**<br>
 `docker` `proxmox` `pfsense` `Github Action`
