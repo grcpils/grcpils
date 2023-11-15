@@ -1,9 +1,9 @@
 - 🎓 Student at Epitech
 - 💼 Work at Atril Solutions
 - 📱 Learn Swift and SwiftUI
-- 🎮 Create game with Unity
+- 🎮 Create game with Unreal Engine 5.3
 
-> Currently at San Francisco for my fourth year of studies
+> In my last year at Epitech
 
 **Web stack**<br>
 `php 7` `php 8` `Symfony 5` `Symfony 6`<br>
